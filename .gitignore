@@ -1,0 +1,18 @@
+# Java
+*.class
+out/
+build/
+target/
+
+# C/C++ compiled output
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# Editor and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+tempCodeRunnerFile.*
